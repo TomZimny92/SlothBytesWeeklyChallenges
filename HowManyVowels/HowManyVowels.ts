@@ -1,4 +1,5 @@
-// How Many Vowels?
+// How Many Vowels - Sloth Bytes June 11, 2024
+//
 // create a function that takes a string and returns the number (count) of vowels in the string.
 //
 
