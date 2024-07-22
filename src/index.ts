@@ -1,3 +1,3 @@
-import {hey} form './helper.ts';
-
-console.log(hey)
+import {hey} from './helper.ts';
+console.log("hey");
+console.log(hey);
