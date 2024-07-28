@@ -5,7 +5,7 @@
 //
 // 
 function IsStringTitle(input: string): boolean {
-	const words: string[] = input.str(' ')
+	const words: string[] = input.split(' ')
 	let isTitle: boolean = true
 	for (let i: number = 0; i < words.length; ++i){
 		let word: string = words[i]
